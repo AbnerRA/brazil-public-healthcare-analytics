@@ -1,0 +1,541 @@
+Year,State,Vaccine,Coverage
+2018,RO,Febre Amarela,89.69
+2019,RO,Febre Amarela,81.42
+2020,RO,Febre Amarela,72.26
+2021,RO,Febre Amarela,68.41
+2022,RO,Febre Amarela,69.9
+2018,AC,Febre Amarela,66.74
+2019,AC,Febre Amarela,68.69
+2020,AC,Febre Amarela,49.45
+2021,AC,Febre Amarela,48.92
+2022,AC,Febre Amarela,54.32
+2018,AM,Febre Amarela,69.88
+2019,AM,Febre Amarela,74.1
+2020,AM,Febre Amarela,60.26
+2021,AM,Febre Amarela,54.86
+2022,AM,Febre Amarela,62.21
+2018,RR,Febre Amarela,72.72
+2019,RR,Febre Amarela,69.77
+2020,RR,Febre Amarela,50.93
+2021,RR,Febre Amarela,38.97
+2022,RR,Febre Amarela,44.56
+2018,PA,Febre Amarela,63.11
+2019,PA,Febre Amarela,62.6
+2020,PA,Febre Amarela,49.46
+2021,PA,Febre Amarela,46.55
+2022,PA,Febre Amarela,50.31
+2018,AP,Febre Amarela,65.56
+2019,AP,Febre Amarela,66.99
+2020,AP,Febre Amarela,37.41
+2021,AP,Febre Amarela,38.35
+2022,AP,Febre Amarela,44.43
+2018,TO,Febre Amarela,81.08
+2019,TO,Febre Amarela,76.47
+2020,TO,Febre Amarela,71.63
+2021,TO,Febre Amarela,69.53
+2022,TO,Febre Amarela,69.66
+2018,MA,Febre Amarela,72.36
+2019,MA,Febre Amarela,66.75
+2020,MA,Febre Amarela,51.82
+2021,MA,Febre Amarela,51.61
+2022,MA,Febre Amarela,58.73
+2018,PI,Febre Amarela,76.92
+2019,PI,Febre Amarela,73.4
+2020,PI,Febre Amarela,63.57
+2021,PI,Febre Amarela,61.69
+2022,PI,Febre Amarela,71.17
+2018,CE,Febre Amarela,1.12
+2019,CE,Febre Amarela,0.78
+2020,CE,Febre Amarela,9.83
+2021,CE,Febre Amarela,26.24
+2022,CE,Febre Amarela,52.11
+2018,RN,Febre Amarela,0.8
+2019,RN,Febre Amarela,0.65
+2020,RN,Febre Amarela,3.04
+2021,RN,Febre Amarela,9.22
+2022,RN,Febre Amarela,22.48
+2018,PB,Febre Amarela,1.07
+2019,PB,Febre Amarela,1.16
+2020,PB,Febre Amarela,13.62
+2021,PB,Febre Amarela,47.42
+2022,PB,Febre Amarela,51.32
+2018,PE,Febre Amarela,1.12
+2019,PE,Febre Amarela,1.15
+2020,PE,Febre Amarela,27.85
+2021,PE,Febre Amarela,47.84
+2022,PE,Febre Amarela,52.63
+2018,AL,Febre Amarela,3.11
+2019,AL,Febre Amarela,2.78
+2020,AL,Febre Amarela,8.91
+2021,AL,Febre Amarela,43.4
+2022,AL,Febre Amarela,55.3
+2018,SE,Febre Amarela,1.19
+2019,SE,Febre Amarela,1.22
+2020,SE,Febre Amarela,0.94
+2021,SE,Febre Amarela,2.0
+2022,SE,Febre Amarela,20.08
+2018,BA,Febre Amarela,69.14
+2019,BA,Febre Amarela,66.44
+2020,BA,Febre Amarela,62.19
+2021,BA,Febre Amarela,54.31
+2022,BA,Febre Amarela,60.73
+2018,MG,Febre Amarela,94.19
+2019,MG,Febre Amarela,85.71
+2020,MG,Febre Amarela,80.97
+2021,MG,Febre Amarela,74.59
+2022,MG,Febre Amarela,75.06
+2018,ES,Febre Amarela,73.87
+2019,ES,Febre Amarela,70.89
+2020,ES,Febre Amarela,64.74
+2021,ES,Febre Amarela,67.29
+2022,ES,Febre Amarela,64.33
+2018,RJ,Febre Amarela,49.26
+2019,RJ,Febre Amarela,55.21
+2020,RJ,Febre Amarela,41.19
+2021,RJ,Febre Amarela,45.24
+2022,RJ,Febre Amarela,43.21
+2018,SP,Febre Amarela,60.18
+2019,SP,Febre Amarela,72.3
+2020,SP,Febre Amarela,69.26
+2021,SP,Febre Amarela,65.96
+2022,SP,Febre Amarela,64.42
+2018,PR,Febre Amarela,75.96
+2019,PR,Febre Amarela,83.19
+2020,PR,Febre Amarela,76.32
+2021,PR,Febre Amarela,74.07
+2022,PR,Febre Amarela,74.44
+2018,SC,Febre Amarela,59.63
+2019,SC,Febre Amarela,84.43
+2020,SC,Febre Amarela,77.73
+2021,SC,Febre Amarela,74.92
+2022,SC,Febre Amarela,72.29
+2018,RS,Febre Amarela,58.65
+2019,RS,Febre Amarela,63.72
+2020,RS,Febre Amarela,60.99
+2021,RS,Febre Amarela,61.05
+2022,RS,Febre Amarela,58.08
+2018,MS,Febre Amarela,90.15
+2019,MS,Febre Amarela,88.88
+2020,MS,Febre Amarela,67.51
+2021,MS,Febre Amarela,67.6
+2022,MS,Febre Amarela,71.36
+2018,MT,Febre Amarela,84.65
+2019,MT,Febre Amarela,75.92
+2020,MT,Febre Amarela,71.35
+2021,MT,Febre Amarela,66.12
+2022,MT,Febre Amarela,70.69
+2018,GO,Febre Amarela,78.68
+2019,GO,Febre Amarela,73.43
+2020,GO,Febre Amarela,66.39
+2021,GO,Febre Amarela,66.0
+2022,GO,Febre Amarela,63.68
+2018,DF,Febre Amarela,83.59
+2019,DF,Febre Amarela,79.19
+2020,DF,Febre Amarela,74.46
+2021,DF,Febre Amarela,70.99
+2022,DF,Febre Amarela,71.91
+2018,RO,Poliomielite,101.89
+2019,RO,Poliomielite,98.26
+2020,RO,Poliomielite,82.51
+2021,RO,Poliomielite,74.58
+2022,RO,Poliomielite,82.3
+2018,AC,Poliomielite,78.34
+2019,AC,Poliomielite,81.73
+2020,AC,Poliomielite,63.08
+2021,AC,Poliomielite,61.78
+2022,AC,Poliomielite,71.95
+2018,AM,Poliomielite,79.25
+2019,AM,Poliomielite,83.29
+2020,AM,Poliomielite,68.17
+2021,AM,Poliomielite,67.77
+2022,AM,Poliomielite,77.51
+2018,RR,Poliomielite,79.79
+2019,RR,Poliomielite,79.76
+2020,RR,Poliomielite,73.67
+2021,RR,Poliomielite,50.96
+2022,RR,Poliomielite,60.13
+2018,PA,Poliomielite,69.09
+2019,PA,Poliomielite,72.72
+2020,PA,Poliomielite,59.78
+2021,PA,Poliomielite,56.78
+2022,PA,Poliomielite,66.09
+2018,AP,Poliomielite,68.74
+2019,AP,Poliomielite,73.01
+2020,AP,Poliomielite,42.68
+2021,AP,Poliomielite,45.37
+2022,AP,Poliomielite,52.87
+2018,TO,Poliomielite,91.68
+2019,TO,Poliomielite,88.17
+2020,TO,Poliomielite,84.42
+2021,TO,Poliomielite,80.22
+2022,TO,Poliomielite,85.42
+2018,MA,Poliomielite,80.61
+2019,MA,Poliomielite,75.73
+2020,MA,Poliomielite,60.91
+2021,MA,Poliomielite,61.97
+2022,MA,Poliomielite,74.37
+2018,PI,Poliomielite,83.71
+2019,PI,Poliomielite,81.85
+2020,PI,Poliomielite,72.96
+2021,PI,Poliomielite,72.84
+2022,PI,Poliomielite,87.0
+2018,CE,Poliomielite,111.08
+2019,CE,Poliomielite,93.54
+2020,CE,Poliomielite,88.42
+2021,CE,Poliomielite,74.27
+2022,CE,Poliomielite,86.48
+2018,RN,Poliomielite,90.32
+2019,RN,Poliomielite,80.74
+2020,RN,Poliomielite,70.58
+2021,RN,Poliomielite,71.67
+2022,RN,Poliomielite,74.96
+2018,PB,Poliomielite,92.26
+2019,PB,Poliomielite,92.6
+2020,PB,Poliomielite,73.77
+2021,PB,Poliomielite,70.31
+2022,PB,Poliomielite,72.58
+2018,PE,Poliomielite,94.72
+2019,PE,Poliomielite,85.64
+2020,PE,Poliomielite,72.78
+2021,PE,Poliomielite,69.01
+2022,PE,Poliomielite,76.25
+2018,AL,Poliomielite,96.13
+2019,AL,Poliomielite,87.89
+2020,AL,Poliomielite,74.4
+2021,AL,Poliomielite,77.55
+2022,AL,Poliomielite,86.36
+2018,SE,Poliomielite,89.74
+2019,SE,Poliomielite,80.86
+2020,SE,Poliomielite,71.62
+2021,SE,Poliomielite,72.27
+2022,SE,Poliomielite,80.1
+2018,BA,Poliomielite,78.25
+2019,BA,Poliomielite,74.83
+2020,BA,Poliomielite,70.86
+2021,BA,Poliomielite,63.06
+2022,BA,Poliomielite,75.47
+2018,MG,Poliomielite,97.75
+2019,MG,Poliomielite,88.52
+2020,MG,Poliomielite,86.61
+2021,MG,Poliomielite,76.48
+2022,MG,Poliomielite,82.94
+2018,ES,Poliomielite,90.95
+2019,ES,Poliomielite,86.68
+2020,ES,Poliomielite,81.66
+2021,ES,Poliomielite,77.41
+2022,ES,Poliomielite,79.0
+2018,RJ,Poliomielite,87.48
+2019,RJ,Poliomielite,73.62
+2020,RJ,Poliomielite,56.84
+2021,RJ,Poliomielite,55.81
+2022,RJ,Poliomielite,58.89
+2018,SP,Poliomielite,92.55
+2019,SP,Poliomielite,86.62
+2020,SP,Poliomielite,82.25
+2021,SP,Poliomielite,74.4
+2022,SP,Poliomielite,77.14
+2018,PR,Poliomielite,90.88
+2019,PR,Poliomielite,89.69
+2020,PR,Poliomielite,86.35
+2021,PR,Poliomielite,80.75
+2022,PR,Poliomielite,84.12
+2018,SC,Poliomielite,94.59
+2019,SC,Poliomielite,93.68
+2020,SC,Poliomielite,88.7
+2021,SC,Poliomielite,83.76
+2022,SC,Poliomielite,87.32
+2018,RS,Poliomielite,85.7
+2019,RS,Poliomielite,85.09
+2020,RS,Poliomielite,85.14
+2021,RS,Poliomielite,76.35
+2022,RS,Poliomielite,78.8
+2018,MS,Poliomielite,95.95
+2019,MS,Poliomielite,94.41
+2020,MS,Poliomielite,83.16
+2021,MS,Poliomielite,75.71
+2022,MS,Poliomielite,86.07
+2018,MT,Poliomielite,90.27
+2019,MT,Poliomielite,85.81
+2020,MT,Poliomielite,81.5
+2021,MT,Poliomielite,76.29
+2022,MT,Poliomielite,84.17
+2018,GO,Poliomielite,85.54
+2019,GO,Poliomielite,81.52
+2020,GO,Poliomielite,78.13
+2021,GO,Poliomielite,72.72
+2022,GO,Poliomielite,76.68
+2018,DF,Poliomielite,86.03
+2019,DF,Poliomielite,84.32
+2020,DF,Poliomielite,81.54
+2021,DF,Poliomielite,73.23
+2022,DF,Poliomielite,78.33
+2018,RO,Tríplice Viral D1,101.65
+2019,RO,Tríplice Viral D1,106.42
+2020,RO,Tríplice Viral D1,84.21
+2021,RO,Tríplice Viral D1,82.54
+2022,RO,Tríplice Viral D1,89.16
+2018,AC,Tríplice Viral D1,83.11
+2019,AC,Tríplice Viral D1,87.39
+2020,AC,Tríplice Viral D1,60.15
+2021,AC,Tríplice Viral D1,60.2
+2022,AC,Tríplice Viral D1,70.47
+2018,AM,Tríplice Viral D1,89.81
+2019,AM,Tríplice Viral D1,92.12
+2020,AM,Tríplice Viral D1,77.0
+2021,AM,Tríplice Viral D1,73.11
+2022,AM,Tríplice Viral D1,78.94
+2018,RR,Tríplice Viral D1,99.32
+2019,RR,Tríplice Viral D1,81.21
+2020,RR,Tríplice Viral D1,69.5
+2021,RR,Tríplice Viral D1,67.31
+2022,RR,Tríplice Viral D1,66.95
+2018,PA,Tríplice Viral D1,77.3
+2019,PA,Tríplice Viral D1,82.81
+2020,PA,Tríplice Viral D1,62.39
+2021,PA,Tríplice Viral D1,62.71
+2022,PA,Tríplice Viral D1,67.46
+2018,AP,Tríplice Viral D1,77.1
+2019,AP,Tríplice Viral D1,87.24
+2020,AP,Tríplice Viral D1,52.54
+2021,AP,Tríplice Viral D1,64.18
+2022,AP,Tríplice Viral D1,61.33
+2018,TO,Tríplice Viral D1,91.21
+2019,TO,Tríplice Viral D1,91.07
+2020,TO,Tríplice Viral D1,82.48
+2021,TO,Tríplice Viral D1,80.47
+2022,TO,Tríplice Viral D1,82.89
+2018,MA,Tríplice Viral D1,84.04
+2019,MA,Tríplice Viral D1,87.05
+2020,MA,Tríplice Viral D1,64.27
+2021,MA,Tríplice Viral D1,63.26
+2022,MA,Tríplice Viral D1,73.18
+2018,PI,Tríplice Viral D1,87.79
+2019,PI,Tríplice Viral D1,89.01
+2020,PI,Tríplice Viral D1,78.47
+2021,PI,Tríplice Viral D1,74.99
+2022,PI,Tríplice Viral D1,82.84
+2018,CE,Tríplice Viral D1,111.46
+2019,CE,Tríplice Viral D1,103.02
+2020,CE,Tríplice Viral D1,91.75
+2021,CE,Tríplice Viral D1,74.49
+2022,CE,Tríplice Viral D1,89.01
+2018,RN,Tríplice Viral D1,88.7
+2019,RN,Tríplice Viral D1,93.73
+2020,RN,Tríplice Viral D1,79.02
+2021,RN,Tríplice Viral D1,72.58
+2022,RN,Tríplice Viral D1,79.86
+2018,PB,Tríplice Viral D1,96.73
+2019,PB,Tríplice Viral D1,105.74
+2020,PB,Tríplice Viral D1,80.38
+2021,PB,Tríplice Viral D1,70.92
+2022,PB,Tríplice Viral D1,78.45
+2018,PE,Tríplice Viral D1,104.72
+2019,PE,Tríplice Viral D1,101.0
+2020,PE,Tríplice Viral D1,79.18
+2021,PE,Tríplice Viral D1,72.02
+2022,PE,Tríplice Viral D1,80.34
+2018,AL,Tríplice Viral D1,107.18
+2019,AL,Tríplice Viral D1,106.22
+2020,AL,Tríplice Viral D1,82.56
+2021,AL,Tríplice Viral D1,77.68
+2022,AL,Tríplice Viral D1,89.74
+2018,SE,Tríplice Viral D1,95.47
+2019,SE,Tríplice Viral D1,90.99
+2020,SE,Tríplice Viral D1,76.21
+2021,SE,Tríplice Viral D1,76.52
+2022,SE,Tríplice Viral D1,84.31
+2018,BA,Tríplice Viral D1,82.3
+2019,BA,Tríplice Viral D1,84.65
+2020,BA,Tríplice Viral D1,79.72
+2021,BA,Tríplice Viral D1,66.3
+2022,BA,Tríplice Viral D1,75.87
+2018,MG,Tríplice Viral D1,97.52
+2019,MG,Tríplice Viral D1,96.97
+2020,MG,Tríplice Viral D1,93.11
+2021,MG,Tríplice Viral D1,82.25
+2022,MG,Tríplice Viral D1,87.11
+2018,ES,Tríplice Viral D1,95.47
+2019,ES,Tríplice Viral D1,95.01
+2020,ES,Tríplice Viral D1,87.81
+2021,ES,Tríplice Viral D1,80.79
+2022,ES,Tríplice Viral D1,77.73
+2018,RJ,Tríplice Viral D1,99.66
+2019,RJ,Tríplice Viral D1,96.58
+2020,RJ,Tríplice Viral D1,61.61
+2021,RJ,Tríplice Viral D1,59.48
+2022,RJ,Tríplice Viral D1,66.74
+2018,SP,Tríplice Viral D1,91.46
+2019,SP,Tríplice Viral D1,91.8
+2020,SP,Tríplice Viral D1,86.83
+2021,SP,Tríplice Viral D1,77.85
+2022,SP,Tríplice Viral D1,78.42
+2018,PR,Tríplice Viral D1,89.78
+2019,PR,Tríplice Viral D1,91.99
+2020,PR,Tríplice Viral D1,86.15
+2021,PR,Tríplice Viral D1,86.54
+2022,PR,Tríplice Viral D1,90.1
+2018,SC,Tríplice Viral D1,92.12
+2019,SC,Tríplice Viral D1,95.82
+2020,SC,Tríplice Viral D1,87.55
+2021,SC,Tríplice Viral D1,87.52
+2022,SC,Tríplice Viral D1,94.94
+2018,RS,Tríplice Viral D1,88.72
+2019,RS,Tríplice Viral D1,91.23
+2020,RS,Tríplice Viral D1,86.08
+2021,RS,Tríplice Viral D1,79.88
+2022,RS,Tríplice Viral D1,88.48
+2018,MS,Tríplice Viral D1,104.53
+2019,MS,Tríplice Viral D1,104.88
+2020,MS,Tríplice Viral D1,81.12
+2021,MS,Tríplice Viral D1,78.12
+2022,MS,Tríplice Viral D1,91.83
+2018,MT,Tríplice Viral D1,89.77
+2019,MT,Tríplice Viral D1,89.91
+2020,MT,Tríplice Viral D1,82.87
+2021,MT,Tríplice Viral D1,80.88
+2022,MT,Tríplice Viral D1,87.06
+2018,GO,Tríplice Viral D1,87.81
+2019,GO,Tríplice Viral D1,88.39
+2020,GO,Tríplice Viral D1,76.57
+2021,GO,Tríplice Viral D1,79.53
+2022,GO,Tríplice Viral D1,82.35
+2018,DF,Tríplice Viral D1,86.32
+2019,DF,Tríplice Viral D1,85.71
+2020,DF,Tríplice Viral D1,82.21
+2021,DF,Tríplice Viral D1,83.21
+2022,DF,Tríplice Viral D1,90.23
+2018,RO,Tríplice Viral D2,78.87
+2019,RO,Tríplice Viral D2,82.25
+2020,RO,Tríplice Viral D2,64.44
+2021,RO,Tríplice Viral D2,42.14
+2022,RO,Tríplice Viral D2,48.34
+2018,AC,Tríplice Viral D2,71.92
+2019,AC,Tríplice Viral D2,78.65
+2020,AC,Tríplice Viral D2,41.58
+2021,AC,Tríplice Viral D2,25.95
+2022,AC,Tríplice Viral D2,37.33
+2018,AM,Tríplice Viral D2,78.0
+2019,AM,Tríplice Viral D2,82.29
+2020,AM,Tríplice Viral D2,52.17
+2021,AM,Tríplice Viral D2,44.7
+2022,AM,Tríplice Viral D2,48.78
+2018,RR,Tríplice Viral D2,88.27
+2019,RR,Tríplice Viral D2,86.72
+2020,RR,Tríplice Viral D2,65.41
+2021,RR,Tríplice Viral D2,35.51
+2022,RR,Tríplice Viral D2,38.11
+2018,PA,Tríplice Viral D2,59.97
+2019,PA,Tríplice Viral D2,71.34
+2020,PA,Tríplice Viral D2,54.79
+2021,PA,Tríplice Viral D2,27.72
+2022,PA,Tríplice Viral D2,30.19
+2018,AP,Tríplice Viral D2,63.88
+2019,AP,Tríplice Viral D2,74.28
+2020,AP,Tríplice Viral D2,37.54
+2021,AP,Tríplice Viral D2,34.7
+2022,AP,Tríplice Viral D2,35.41
+2018,TO,Tríplice Viral D2,78.86
+2019,TO,Tríplice Viral D2,84.71
+2020,TO,Tríplice Viral D2,68.52
+2021,TO,Tríplice Viral D2,50.51
+2022,TO,Tríplice Viral D2,50.39
+2018,MA,Tríplice Viral D2,56.88
+2019,MA,Tríplice Viral D2,65.87
+2020,MA,Tríplice Viral D2,45.73
+2021,MA,Tríplice Viral D2,39.94
+2022,MA,Tríplice Viral D2,46.94
+2018,PI,Tríplice Viral D2,69.17
+2019,PI,Tríplice Viral D2,74.48
+2020,PI,Tríplice Viral D2,53.25
+2021,PI,Tríplice Viral D2,48.76
+2022,PI,Tríplice Viral D2,53.23
+2018,CE,Tríplice Viral D2,87.14
+2019,CE,Tríplice Viral D2,86.7
+2020,CE,Tríplice Viral D2,73.36
+2021,CE,Tríplice Viral D2,55.18
+2022,CE,Tríplice Viral D2,66.26
+2018,RN,Tríplice Viral D2,64.49
+2019,RN,Tríplice Viral D2,74.4
+2020,RN,Tríplice Viral D2,56.09
+2021,RN,Tríplice Viral D2,45.1
+2022,RN,Tríplice Viral D2,46.5
+2018,PB,Tríplice Viral D2,72.18
+2019,PB,Tríplice Viral D2,87.79
+2020,PB,Tríplice Viral D2,55.29
+2021,PB,Tríplice Viral D2,44.24
+2022,PB,Tríplice Viral D2,53.09
+2018,PE,Tríplice Viral D2,69.54
+2019,PE,Tríplice Viral D2,81.45
+2020,PE,Tríplice Viral D2,53.82
+2021,PE,Tríplice Viral D2,44.95
+2022,PE,Tríplice Viral D2,51.17
+2018,AL,Tríplice Viral D2,72.09
+2019,AL,Tríplice Viral D2,74.53
+2020,AL,Tríplice Viral D2,55.5
+2021,AL,Tríplice Viral D2,50.27
+2022,AL,Tríplice Viral D2,61.25
+2018,SE,Tríplice Viral D2,71.93
+2019,SE,Tríplice Viral D2,74.98
+2020,SE,Tríplice Viral D2,61.52
+2021,SE,Tríplice Viral D2,61.33
+2022,SE,Tríplice Viral D2,62.25
+2018,BA,Tríplice Viral D2,65.06
+2019,BA,Tríplice Viral D2,70.5
+2020,BA,Tríplice Viral D2,55.54
+2021,BA,Tríplice Viral D2,45.31
+2022,BA,Tríplice Viral D2,52.71
+2018,MG,Tríplice Viral D2,85.03
+2019,MG,Tríplice Viral D2,87.58
+2020,MG,Tríplice Viral D2,77.12
+2021,MG,Tríplice Viral D2,67.23
+2022,MG,Tríplice Viral D2,68.27
+2018,ES,Tríplice Viral D2,79.5
+2019,ES,Tríplice Viral D2,87.45
+2020,ES,Tríplice Viral D2,71.16
+2021,ES,Tríplice Viral D2,64.92
+2022,ES,Tríplice Viral D2,64.6
+2018,RJ,Tríplice Viral D2,70.18
+2019,RJ,Tríplice Viral D2,77.24
+2020,RJ,Tríplice Viral D2,41.25
+2021,RJ,Tríplice Viral D2,40.31
+2022,RJ,Tríplice Viral D2,50.49
+2018,SP,Tríplice Viral D2,81.84
+2019,SP,Tríplice Viral D2,82.5
+2020,SP,Tríplice Viral D2,68.5
+2021,SP,Tríplice Viral D2,64.16
+2022,SP,Tríplice Viral D2,65.15
+2018,PR,Tríplice Viral D2,86.23
+2019,PR,Tríplice Viral D2,90.67
+2020,PR,Tríplice Viral D2,80.79
+2021,PR,Tríplice Viral D2,67.36
+2022,PR,Tríplice Viral D2,68.59
+2018,SC,Tríplice Viral D2,83.42
+2019,SC,Tríplice Viral D2,93.34
+2020,SC,Tríplice Viral D2,85.68
+2021,SC,Tríplice Viral D2,69.61
+2022,SC,Tríplice Viral D2,72.35
+2018,RS,Tríplice Viral D2,83.11
+2019,RS,Tríplice Viral D2,87.6
+2020,RS,Tríplice Viral D2,78.39
+2021,RS,Tríplice Viral D2,56.03
+2022,RS,Tríplice Viral D2,62.59
+2018,MS,Tríplice Viral D2,97.62
+2019,MS,Tríplice Viral D2,92.21
+2020,MS,Tríplice Viral D2,67.61
+2021,MS,Tríplice Viral D2,37.4
+2022,MS,Tríplice Viral D2,49.56
+2018,MT,Tríplice Viral D2,79.53
+2019,MT,Tríplice Viral D2,83.71
+2020,MT,Tríplice Viral D2,70.88
+2021,MT,Tríplice Viral D2,41.97
+2022,MT,Tríplice Viral D2,46.07
+2018,GO,Tríplice Viral D2,76.76
+2019,GO,Tríplice Viral D2,79.68
+2020,GO,Tríplice Viral D2,68.92
+2021,GO,Tríplice Viral D2,48.87
+2022,GO,Tríplice Viral D2,52.56
+2018,DF,Tríplice Viral D2,87.05
+2019,DF,Tríplice Viral D2,86.8
+2020,DF,Tríplice Viral D2,67.19
+2021,DF,Tríplice Viral D2,54.67
+2022,DF,Tríplice Viral D2,61.5
