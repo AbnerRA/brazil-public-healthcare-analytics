@@ -6,8 +6,14 @@ Analytics projects about Brazil's Public Healthcare
 DATASUS - Vaccination Coverage
 ## Methodology
 Data extraction, cleaning, transformation and analysis using Python, PostgreSQL and SQL.
-## Key Findings
+## Data Pipeline
 
-## Techniques Used
-Python: 
-SQL: 
+The project uses a Python ETL pipeline:
+
+- Extract: reads raw DATASUS CSV files
+- Transform: cleans and normalizes vaccination data
+- Load: stores analytical tables in PostgreSQL
+
+## Technologies
+Python: Pandas, SQLAlquemy
+SQL: PostgreSQL
