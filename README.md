@@ -17,3 +17,10 @@ The project uses a Python ETL pipeline:
 ## Technologies
 Python: Pandas, SQLAlquemy
 SQL: PostgreSQL
+
+## Environment Setup
+
+1. Copy .env.example to .env
+2. Add your local database credentials
+3. Run the ETL pipeline
+4. Start the API server
